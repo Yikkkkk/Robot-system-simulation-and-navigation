@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yanglilin/gazebo/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/yanglilin/gazebo/src/racecar/system/racecar/ackermann_cmd_mux/include/**",
+        "/home/yanglilin/gazebo/src/racecar/system/hokuyo_node/include/**",
+        "/home/yanglilin/gazebo/src/racecar/system/serial/include/**",
+        "/home/yanglilin/gazebo/src/racecar/system/vesc/vesc_ackermann/include/**",
+        "/home/yanglilin/gazebo/src/racecar/system/vesc/vesc_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
